@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://matthewjeppesen.com"
+languageCode = "en-au"
 title = "jpp.sn"
-theme = "base16"
+theme = "detox"
