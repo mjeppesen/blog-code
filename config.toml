@@ -1,4 +1,4 @@
 baseURL = "https://matthewjeppesen.com"
 languageCode = "en-au"
 title = "jpp.sn"
-theme = "detox"
+theme = "bookcase"
