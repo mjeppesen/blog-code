@@ -1,28 +1,25 @@
 ---
 title: "Foot Surgery"
 date: 2017-07-16T13:34:36+10:00
-custom_page_style: |
+custom_page_style: |  # add custom css for the page here
   <style>
-
-  img { display: block; margin-left: auto; margin-right: auto ;}
-
-  body {
-    background-image:  url('data:image/svg+xml;utf8,<svg viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg"><rect width="0.5" height="1" fill="hsla(32, 42%, 50%, .5)" /></svg>');
-    background-size: 10px 10px;
-  }
-
-
-  article.post { background-color: white; }
-
+  img { display: block; margin-left: auto; margin-right: auto ;} <! --center images -->
   @media screen and (min-width: 10cm) {
-    article.post { padding: 2em; margin: 2em;
-        border: 0.2em solid #333; }
+    article.post{padding: 2cm; margin: 0cm; }
+        /* border: 0.1cm solid #0b1a47; } */
+  }
+  body {
+    background-color:#80c2e3 !important;
   }
 
+  article.post { background-color: white; color: #0b1a47; }
+  h1.blog-title {color: #0b1a47; }
+  main.content {background-color: white; border-top: #0b1a47 0.1cm solid; padding-top: 1cm}
+  header#site-header { min-height: 0px; } /* make the site header not so big */
+  }
   </style>
 
 ---
-
 
 I have had foot surgery, and I'm lying in bed now, with my foot on a pillow, recovering.
 
@@ -38,8 +35,5 @@ Eventually, almost a year later, I went back to the surgeon. My wife, who is a d
 
 Anyway, I got the surgery a few days ago, I hope my foot recovers well.
 
-{{< figure src="/images/millie_robot_scan.svg" title="millie_robot_scan" >}}
-
-
-
+<!-- {{ <figure src="/images/millie_robot_scan.svg" title="millie_robot_scan" >}} -->
 
