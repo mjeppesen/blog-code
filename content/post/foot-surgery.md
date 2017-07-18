@@ -1,6 +1,26 @@
 ---
 title: "Foot Surgery"
 date: 2017-07-16T13:34:36+10:00
+custom_page_style: |
+  <style>
+
+  img { display: block; margin-left: auto; margin-right: auto ;}
+
+  body {
+    background-image:  url('data:image/svg+xml;utf8,<svg viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg"><rect width="0.5" height="1" fill="hsla(32, 42%, 50%, .5)" /></svg>');
+    background-size: 10px 10px;
+  }
+
+
+  article.post { background-color: white; }
+
+  @media screen and (min-width: 10cm) {
+    article.post { padding: 2em; margin: 2em;
+        border: 0.2em solid #333; }
+  }
+
+  </style>
+
 ---
 
 
@@ -17,3 +37,9 @@ So I went to the surgeon and had an appointment, and then ... did nothing for a 
 Eventually, almost a year later, I went back to the surgeon. My wife, who is a doctor, came along and helped me understand what would happen. I also secretly wanted to get her vibe of the surgeon, which was positive. I had slightly better idea of what would happen, but I didn't really have a good reason to change my mind and do the surgery. I had tried enough shoes and wanted to at least try it. I had talked to a three people who had similar surgery, who all reported that it went well. Three is not many, but hearing those stories made me feel that surgery was both a reasonable and common choice, and that the odds were reasonable. I also went to a new podiatrist during the year, who also left me with the impression that surgery was a reasonable thing to do. My decision due based on the feeling I got from talking with a few people, as any other information.
 
 Anyway, I got the surgery a few days ago, I hope my foot recovers well.
+
+{{< figure src="/images/millie_robot_scan.svg" title="millie_robot_scan" >}}
+
+
+
+
