@@ -9,11 +9,11 @@ custom_page_style: |  # add custom css for the page here
         /* border: 0.1cm solid #0b1a47; } */
   }
   body {
-    background-color: #d2fee1 !important;
+    background-color:#d3f1fd !important;
   }
 
-  article.post { background-color: white; color: #0b1a47; }
-  h1.blog-title {color: #0b1a47; }
+  article.post { background-color: white; color: #333333; }
+  h1.blog-title {color: #333333; }
   main.content {background-color: white; border-top: #0b1a47 0.1cm solid; padding-top: 1cm}
   header#site-header { min-height: 0px; } /* make the site header not so big */
   }
