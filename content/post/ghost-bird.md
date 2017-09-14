@@ -2,11 +2,16 @@
 title: "Ghost Bird"
 date: 2017-08-07T07:49:50+10:00
 ---
+
 A few years ago, in the middle of winter, my wife and I moved from our house in inner Melbourne to Cairns in Far North Queensland.  Tropical Queensland looked instantly different to southern Australia. There was rainforest in the hills behind the town, and sugar cane growing along the highway. The sun in Cairns was strong and bright, and the landscape seemed to be an intense, rich green instead of the blueish-green, straw yellow and sandy brown colours of down south.
 
-We rented at house at Yorkeys Knob, which is one of the suburbs north of Cairns.(Annual town party: "Festival of the Knob"). It has a lovely beach, which you can't swim in, both for crocodiles and stinging jellyfish. Across from the beach were a few holiday houses, and a melaleuca scrubland, the size of a football field, which was surrounded by a tall plywood temporary fence which was beginning to fall down. Behind all this were the houses where people lived, a few shops, and the Knob itself, which is a rocky hill with views out to the Coral Sea. Yorkeys was a quiet and sleepy town.
+{{<figure src="/images/curlew.svg" >}}
+
+We rented at house at Yorkeys Knob, which is one of the suburbs north of Cairns.(Annual town party: "Festival of the Knob"). It has a lovely beach, which you can't swim in, both for crocodiles and stinging jellyfish. Across from the beach were a few holiday houses, and a melaleuca scrubland, the size of a football field, which was surrounded by a tall plywood temporary fence which was beginning to fall down. Behind all this were the houses where people lived, a few quiet shops, and the Knob itself, which is a rocky hill with views out to the Coral Sea.
 
 Our house also backed onto the melaleuca and tea tree scrub, which was very pretty, with electric blue Ulyssues butterflies which would fly out into our back garden. However, after we lived there for a few weeks it occurred to me that during the wet season, the scrub might become a wetland or even a swamp, which in the land of crocodiles and dengue fever makes you thoughtful. Certainly, at night the scrub lively and noisy, with croaking frogs and toads and the occasional eerie shriek, noise which sounded like "whee-eer-loooo", an almost human-like wail in the darkness. At the back of the garden, bordering onto the scrub was the compost bin and two paw paw trees. Every few days, an enormous amethyst python (Australia's largest snake) would be lying on top of and around the bin, in the sun. It was at least five metres long, with a body as thick as my arm. You could see it lying there from the back door, and since it didn't surprise me up close I didn't mind too much. Tropical Queensland was exhilarating, and also a bit intimidating.
+
+{{<figure src="/images/snake.svg" >}}
 
 We planted a veggie garden in our backgarden, with lots of new plants we couldn't grow easily down south: okra, snake beans, lemongrass, sweet potato, paw paw, as well as a new fruit which I only heard of for the first time at a local restaurant:
 
