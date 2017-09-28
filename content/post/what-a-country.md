@@ -1,9 +1,12 @@
 ---
 title: "What A Country"
 date: 2017-07-22T09:37:06+10:00
+featured_image: "/images/baby_sleeps.svg"
 ---
 
 When our first child was born, a very nice nurse came to visit us every few weeks or so, from when we first got home to when our daughter was two months old. The nurse was friendly, helpful, did a health check, gave good advice, and was very much appreciated.
+
+{{<figure src="/images/baby_sleeps.svg" >}}
 
 After two months, the nurse stopped visiting us at home, but we visited her at her office every few months. It was a great service, but we weren't special -- every new baby in Australia gets this, as far as I know, tell, and it was absolutely free.
 
