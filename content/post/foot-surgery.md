@@ -1,6 +1,7 @@
 ---
 title: "Foot Surgery"
 date: 2017-07-16T13:34:36+10:00
+featured_image: "/images/foot.svg"
 custom_page_style: |  # add custom css for the page here
   <style>
   img { display: block; margin-left: auto; margin-right: auto ; margin-bottom: 0.5cm} <! --center images -->
