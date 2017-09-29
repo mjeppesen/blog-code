@@ -1,6 +1,9 @@
 ---
 title: "Discovery Of Helium Under the Earth"
 date: 2017-07-21T06:40:43+10:00
+
+
+featured_image: "images/why_is_the_flame_extinguished.svg"
 ---
 
 
@@ -13,6 +16,9 @@ In 1905, a large natural gas well was drilled in Kansas, USA, which had huge amo
 The celebration had games, and music, and speeches. You can imagine a town party in rural America at the start of the 20th century. Colourful bunting flags. Distinguished old men in three piece suits with moustaches and muttonchops. Ladies in frilly dresses. The band with a tuba going _omm-pah-pah_.
 
 At the end of the night, a burning bale of hay was pushed towards the gusher of escaping gas (with a long stick, one would hope). The band would have gone silent. Everyone is standing around (again, not too close), watching expectantly. The burning hay approached the hole and ... Suddenly the flames went out. People say, "What? Huh." The bale is retrieved, re-lighted, pushed back towards the hole. Again it goes out. They try a third time, and again it goes out. The crowd sighs. What is going on?
+
+
+{{<figure src="/images/why_is_the_flame_extinguished.svg" >}}
 
 The celebration ends in an anti-climax. People go home wondering what happened, and what indeed is the gas coming out of the ground. Some people say it is a well of "hot air", not natural gas. Sometime later, people come from the University of Kansas, and take a sample in a steel barrel. Analysis is done, and they find that gas does contain 15% methane (natural gas), but also 80% inert gases, most of which was nitrogen -- too great a concentration for the bale of hay to burn. The gas also contained what they thought was an amazing _1.5%_ helium. Given the amount of gas coming out of that well, if even one percent of that was helium, that was millions of time more helium than had ever been discovered before. Helium was no longer rare, and was now able to be used in balloons, to make your voice funny, fly huge zeppelins, and also make [MRI machines](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging). Even today, all helium you use is mined from the ground in natural gas wells. Helium is even regulated by the US government as a "strategic reserve". So the disapointed Kansan partygoers walking home that night actually had something to celebrate, they just didn't know it.
 
