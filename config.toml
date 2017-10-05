@@ -5,3 +5,5 @@ theme = "bookcase"
 
 [params]
   description = "A blog."
+  twitter_name = "matthewjeppesen"
+  author = "Matthew Jeppesen"
