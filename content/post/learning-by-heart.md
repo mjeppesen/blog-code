@@ -1,9 +1,13 @@
 ---
 title: "Learning By Heart"
 date: 2017-10-05T07:47:19+10:00
+featured_image: "/images/learning_by_heart.svg"
+
 ---
 
 When I was younger, I thought that learning things by heart was silly. Memorising facts, figures, names and dates, or a strict old authoritarian school teacher forcing kids to memorise the names of kings -- this seemed ridiculous to me. Better to understand the patterns of political history, or the underlying physics and equations of something. You will naturally remember the basic details of a topic as you study it, and that's enough, any effort to specifically memorise facts is wasted.
+
+{{<figure src="/images/learning_by_heart.svg" >}}
 
 When I studied physics later on, this was a common attitude. Many physical phenomena can, in principle, be derived (i.e., mathematically worked out) from a small number of fundamental equations. Some physicists are proud that they cannot (for example) remember the wave equation for light but can derive it from Maxwell's equations whenever needed (I probably used to be a bit like this). There is a story that the physicist Enrico Fermi once said, about all the newly discovered elementary particles, "If I could remember the names of all these particles, I would have been a botanist..."
 
