@@ -1,17 +1,22 @@
 ---
 title: "Electricity Demand Response At The Supreme Court"
 date: 2017-10-30T20:40:44+11:00
+draft: true
 ---
 
 How much should people be paid _not_ to use electricity? A dispute on the fundamental economics of this went to the US Supreme court recently.
 
 {{<figure src="/images/supreme_court.svg" >}}
 
-In the electricity industry, where I work, it is important to keep supply (the energy being provided by the generators) balanced with demand (the energy being used by customers) _at all times_. If this is not done, the entire system will quickly collapse and fail to what is called "system black". It is very different to the situation in most industries. Consider, for example, if Apple does not make enough new iPhones to satisfy demand. All the iPhones that are made will be bought by someone, and everyone else who wants to buy one will either have to wait until more phones are made, or buy another kind of phone. If the phone market were similar to the electricity market, an analogous situation would be that if even one person went to the store and could not purchase a new iPhone, then all other iPhones stopped working.
+In the electricity industry, where I work, it is important to keep supply (the energy being provided by the generators) balanced with demand (the energy being used by customers) _at all times_. If this is not done, the entire system will quickly collapse and fail to what is called "system black". This is different to almost every other market. Consider, for example, what happens when Apple creates a new model of iPhone, but does not so that everyone who wants to buy one can buy one. Well, all the iPhones that are made will be bought by someone, and those people will get to use them. Everyone else who wants to buy one will either have to wait until more phones are made, or buy another kind of phone. If the phone market were similar to the electricity market, an analogous situation would be that if even one person went to the store and could not purchase a new iPhone, then all other iPhones stopped working within a few seconds.
 
 For electricity grid operators, this fact makes it hard to run the power system securely when electricity demand is very high (typically on hot days). There is nothing to stop people from connecting additional appliances to the grid. Even though wholesale prices rise very high at these times (over 300 times the average price), most people are either unaware of such prices or any not exposed to them (i.e. the price paid by their retailer rises but the customers themselves have a fixed price). For many kinds of loads, the demand rises automatically without any person even being involved. For example, many air conditioners have a set temperature to which they try to cool a building down to. If the outside temperature increases, the air conditioners automatically start working harder (therefore using more electricity) in response.
 
 One way that this problem is managed is called _demand response_, which is essentially paying customers to use less electricity at certain times than they normally would. This is often done in indirect ways, as suits different customers and their habits. One example will be trialled by the retailer Powershop this summer, supported by The Australian Energy Market Operator (AEMO) and Australian Renewable Energy Agency (ARENA). Powershop will use a smart phone app to tell people to reduce their demand at certain times, with the reward being a week or so of free electricity.
+
+What is the right price In the next post I'll discuss a dispute whic
+
+
 
 Which brings us to the question: if you are going to pay someone to use less power than they normally would, what is the right amount to pay them? If a person normally pays $50/MWh for their electricity use, and prices rise to $500/MWh: should they be paid:
 
