@@ -1,5 +1,5 @@
 ---
-title: "Paying people to use less electricity"
+title: "Paying people to use less electricity (Demand response part 1)"
 date: 2017-11-07T20:40:44+11:00
 ---
 
