@@ -2,6 +2,9 @@
 title: "What A Country"
 date: 2017-07-22T09:37:06+10:00
 featured_image: "/images/baby_sleeps.svg"
+aliases:
+    - /post/what-a-country/
+
 ---
 
 When our first child was born, a very nice nurse came to visit us every few weeks or so, from when we first got home to when our daughter was two months old. The nurse was friendly, helpful, did a health check, gave good advice, and was very much appreciated.

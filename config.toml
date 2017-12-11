@@ -3,6 +3,10 @@ languageCode = "en-au"
 title = "jpp.sn"
 theme = "bookcase"
 
+[permalinks]
+  post = "/:year/:month/:title/"
+
+
 [params]
   description = "A blog."
   twitter_name = "matthewjeppesen"

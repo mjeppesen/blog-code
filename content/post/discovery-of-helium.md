@@ -2,6 +2,9 @@
 title: "Helium was discovered on the Sun before the Earth"
 date: 2017-07-17T08:33:33+10:00
 featured_image: "/images/lockyer_telescope.svg"
+aliases:
+    - /post/discovery-of-helium/
+tags: ["The Sun", "Science", "History"]
 ---
 
 

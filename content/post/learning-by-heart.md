@@ -3,6 +3,8 @@ title: "Learning By Heart"
 date: 2017-10-05T07:47:19+10:00
 featured_image: "/images/learning_by_heart.svg"
 
+aliases:
+    - /post/learning-by-heart/
 ---
 
 When I was younger, I thought that learning things by heart was silly. Memorising facts, figures, names and dates, or a strict old authoritarian school teacher forcing kids to memorise the names of kings -- this seemed ridiculous to me. Better to understand the patterns of political history, or the underlying physics and equations of something. You will naturally remember the basic details of a topic as you study it, and that's enough, any effort to specifically memorise facts is wasted.

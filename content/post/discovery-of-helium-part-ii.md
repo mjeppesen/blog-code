@@ -2,6 +2,9 @@
 title: "Discovery Of Helium Under the Earth"
 date: 2017-07-21T06:40:43+10:00
 
+aliases:
+    - /post/discovery-of-helium-part-ii/
+tags: ["The Sun", "Science", "History"]
 
 featured_image: "images/why_is_the_flame_extinguished.svg"
 ---

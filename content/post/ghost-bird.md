@@ -2,6 +2,9 @@
 title: "Ghost Bird"
 date: 2017-08-07T07:49:50+10:00
 featured_image: "/images/curlew.svg"
+
+aliases:
+    - /post/ghost-bird/
 ---
 
 A few years ago, in the middle of winter, my wife and I moved from our house in inner Melbourne to Cairns in Far North Queensland.  Tropical Queensland looked instantly different to southern Australia. There was rainforest in the hills behind the town, and sugar cane growing along the highway. The sun in Cairns was strong and bright, and the landscape seemed to be an intense, rich green instead of the blueish-green, straw yellow and sandy brown colours of down south.

@@ -1,6 +1,10 @@
 ---
 title: "Electricity demand response at the Supreme Court (Demand response part 2)"
 date: 2017-11-25T20:40:44+11:00
+tags: ["Energy"]
+
+aliases:
+    - /post/electricity-demand-response-at-the-supreme-court/
 ---
 
 In [part 1]( {{< ref "paying-people-to-use-less-electricity.md" >}} ) of this article, I wrote about the importance of demand response in the electricity industry -- i.e., why power companies might choose to pay customers to use less electricity at certain times. Here, I discuss what the right price for demand response would be, and a recent US Supreme Court case over the fundamental economic principles of that price -- including the question of whether reducing consumption was equivalent to generation.

@@ -2,6 +2,8 @@
 title: "Fast slides and good times"
 date: 2017-10-09T21:39:59+11:00
 featured_image: "/images/park_slide.svg"
+aliases:
+    - /post/fast-slides-and-good-times/
 ---
 
 Not far from where I live is a fantastic playground. There are swings, cubby houses, roundabouts, and in the center is an enormous tower with two slides down to the ground.
