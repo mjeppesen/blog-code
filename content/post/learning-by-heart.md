@@ -11,9 +11,13 @@ When I was younger, I thought that learning things by heart was silly. Memorisin
 
 {{<figure src="/images/learning_by_heart.svg" >}}
 
-When I studied physics later on, this was a common attitude. Many physical phenomena can, in principle, be derived (i.e., mathematically worked out) from a small number of fundamental equations. Some physicists are proud that they cannot (for example) remember the wave equation for light but can derive it from Maxwell's equations whenever needed (I probably used to be a bit like this). There is a story that the physicist Enrico Fermi once said, about all the newly discovered elementary particles, "If I could remember the names of all these particles, I would have been a botanist..."
+When I studied physics later on, this was a common attitude. Many physical phenomena can, in principle, be derived (i.e., mathematically worked out) from a small number of fundamental equations. Some physicists are proud that they cannot (for example) remember the wave equation for light but can derive it from Maxwell's equations whenever needed (I probably used to be a bit like this). There is a story that the physicist Enrico Fermi once said, about all the newly discovered elementary particles:
 
-I thought I could remember a similar quote by the physicist Richard Feynman, but when I went to look up the quote in the Feynman lectures, it seems that he is actually making fun of such attitudes. Having stated the two fundamental principles of gravity, he says: "A sufficiently talented mathematician could then deduce all the consequences of these two principles. _However_, since you are not assumed to be sufficiently talented yet, we shall discuss the consequences in more detail ...".
+> "If I could remember the names of all these particles, I would have been a botanist..."
+
+I thought I could remember a similar quote by the physicist Richard Feynman, but when I went to look up the quote in the Feynman lectures, it seems that he is actually making fun of such attitudes. Having stated the two fundamental principles of gravity, he says:
+
+> "A sufficiently talented mathematician could then deduce all the consequences of these two principles. _However_, since you are not assumed to be sufficiently talented yet, we shall discuss the consequences in more detail ...".
 
 Later in my twenties I worked as a tutor once per week at Fitzroy Library's homework club, which is a free service for local high school students. Often, students would be there on a particular afternoon because an assignment or test was due the next day. In that case, they didn't want to understand why the quadratic equation works, or how to derive it, they just wanted to learn and memorise the steps to use as quickly as possible. _The test is tomorrow!_
 

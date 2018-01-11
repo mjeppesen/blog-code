@@ -7,6 +7,11 @@ aliases:
     - /post/ghost-bird/
 ---
 
+
+
+_Edit: a version of this post was published in the December 2017 issue of [Australian Birdlife magazine](http://birdlife.org.au/australian-birdlife/filter/december-2017)_.
+
+
 A few years ago, in the middle of winter, my wife and I moved from our house in inner Melbourne to Cairns in Far North Queensland.  Tropical Queensland looked instantly different to southern Australia. There was rainforest in the hills behind the town, and sugar cane growing along the highway. The sun in Cairns was strong and bright, and the landscape seemed to be an intense, rich green instead of the blueish-green, straw yellow and sandy brown colours of down south.
 
 {{<figure src="/images/curlew.svg" >}}
