@@ -7,7 +7,7 @@ My daughter will start school next month, and this week she went to her old chil
 
 {{<figure src="/images/logbook_1.svg" >}}
 
-They were logbooks of her time at childcare. Until they came home that day, I didn't know they existed or that the childcare teachers were making them each day. The books are full of notes, photos, artwork in clear plastic pockets, stories and quotes from the children. Many of pages I had seen in the daily email, but here it all collected in a book. There is something there from almost every day she was at childcare -- over three years of memories. Looking through it now I can see:
+They were logbooks of her time at childcare. Until they came home that day, I didn't know they existed or that the childcare teachers were making them each day. The books are full of notes, photos, artwork in clear plastic pockets, stories and quotes from the children. Many of the pages I had seen in the daily email, but here it was all collected in a book. There is something from almost every day she was at childcare -- over three years of memories. Looking through it now I can see:
 
   - Photos of the children mixing paints and finger painting
   - Stories about learning the names of fruits
@@ -20,4 +20,4 @@ They were logbooks of her time at childcare. Until they came home that day, I di
 
   {{<figure src="/images/logbook_2.svg" >}}
 
-It is an extraordinary gift to have received. A gift which is full of memories and photos, which took work over several years. I am the sort of person who prefers to keep records as files on my computer where I can search them electronically. I am amazed by the discipline and diligence of the staff in creating physical paper records for each child, moving them around as each child moves from room to room over different years, a little bit being added each day, and I am grateful for it.
+It is an extraordinary gift to have received. A gift which is full of memories and photos, which took work over several years. I am not that good with paper records, the sort of person who is not prefers to keep records as files on my computer where I can search them electronically. The discipline and diligence of the staff amazes me, in creating physical paper records for each child, adding to each book each day, moving them around as each child moves from room to room over different years, and I am grateful for it.
