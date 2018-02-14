@@ -1,6 +1,8 @@
 ---
 title: "Herds Of Giant Wombats Grazing"
 date: 2017-12-10T21:41:29+11:00
+tags: ["Science", "History"]
+
 ---
 
 When you walk through the doors of the museum here in Melbourne, there is a gigantic entrance hall which contains the entire skeleton of a blue whale. Walking throughout the Museum, there are dinosaurs and insects, there are gemstones of translucent purple, milky blue, and a thousand other colours. There is an entire native rainforest in a room, with actual plants and trees and a pond full of fish. There is an extraordinary kids play room, with rope ladders going up a series of tunnels to a succession of rooms which go over your head and then back down again to the ground. It takes 20 minutes for a child to crawl from one end to the other, so if you see your kids up there halfway through it, there is nothing to do but watch them and hope they don't get stuck.

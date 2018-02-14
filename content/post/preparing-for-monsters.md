@@ -3,6 +3,8 @@ title: "Preparing For Monsters"
 date: 2017-10-26T21:40:38+11:00
 aliases:
     - /post/preparing-for-monsters/
+tags: ["Family"]
+
 ---
 
 

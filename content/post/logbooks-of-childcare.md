@@ -1,6 +1,8 @@
 ---
 title: "Logbooks of childcare"
 date: 2018-01-10T23:10:48+11:00
+tags: ["Family"]
+
 ---
 
 My daughter will start school next month, and this week she went to her old child care for (almost) the last time. At the end of the day she brought home two large ring binder folders.

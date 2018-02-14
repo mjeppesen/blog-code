@@ -2,9 +2,11 @@
 title: "Ghost Bird"
 date: 2017-08-07T07:49:50+10:00
 featured_image: "/images/curlew.svg"
-
 aliases:
     - /post/ghost-bird/
+
+tags: ["Birds"]
+
 ---
 
 
