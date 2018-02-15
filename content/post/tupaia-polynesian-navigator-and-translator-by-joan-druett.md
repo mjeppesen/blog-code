@@ -1,5 +1,5 @@
 ---
-title: "Tupaia, biography by Joan Druett"
+title: "Tupaia, Polynesian navigator and translator, biography by Joan Druett"
 date: 2018-02-14T09:17:57+11:00
 tags: ["Tupaia", "Polynesia", "History", "New Zealand"]
 ---
