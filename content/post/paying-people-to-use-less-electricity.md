@@ -22,5 +22,5 @@ When demand response is financially compensated, it is often paid for in indirec
 
 From what I can tell, this is a successful and well run demand response program, and is well designed for its target customers.
 
-In the next post, I'll discuss what is the optimal price to pay for demand response, which is a dispute that went all the way to the US Supreme Court in 2016, with a disagreement about the fundamental economic principles that should be used.
+In the [next post](http://jpp.sn/2017/11/electricity-demand-response-at-the-supreme-court-demand-response-part-2), I'll discuss what is the optimal price to pay for demand response, which is a dispute that went all the way to the US Supreme Court in 2016, with a disagreement about the fundamental economic principles that should be used.
 
