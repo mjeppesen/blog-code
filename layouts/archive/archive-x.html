@@ -14,7 +14,7 @@
 
     {{ .Content }}
 <ul>
-{{ range  (where .Site.Pages.ByPublishDate "Type" "post") }}
+{{ range  (where .Site.Pages.ByPublishDate.Reverse "Type" "post") }}
         {{ if ne .Title "Posts" }}
         <li>
           <em><a href="{{ .Permalink }}">{{ .Title }}</a> </em> &nbsp | &nbsp

@@ -8,7 +8,8 @@ This post is about an excellent book that I read recently, [_Tupaia_, by Joan Dr
 
 Tupaia was born on the island of Ra'iatea around 1725, and was trained in navigation at the fare-'ai-ra'a-upu schools of learning. When he was about 30, he was badly injured fighting invaders from the island of Bora Bora, stabbed in the back by a spear with a stingray barb point, nearly died, and fled to Tahiti. There, Tupaiai was a priest of the god 'Oro, and consort of a noblewoman called Purea. In 1769, in Tahiti, Tupaia joined the Endeavour voyage with Captain James Cook and sailed to New Zealand, Australia, and Indonesia. During that voyage he painted several remarkable pictures, including the first known picture to show a meeting between Maori and Europeans -- a Maori man and a British man trading a lobster for a piece of cloth. The picture is reproduced on the book cover:
 
-{{<figure src="/images/tupaia_cover.svg" >}}
+[
+{{<figure src="/images/tupaia_cover.svg" >}}](https://store.aucklandmuseum.com/products/tupaia-by-joan-druett)
 
 <br>
 
