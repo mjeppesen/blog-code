@@ -1,4 +1,4 @@
-baseURL = "http://jpp.sn/"
+baseURL = "https://jpp.sn/"
 languageCode = "en-au"
 title = "jpp.sn"
 theme = "bookcase"
