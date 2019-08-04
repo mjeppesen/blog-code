@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="400mm"
-   height="400mm"
-   viewBox="0 0 400 400"
+   height="300mm"
+   viewBox="0 0 400 300"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="port_adelaide.svg">
   <defs
      id="defs2" />
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="2927.5724"
-     inkscape:cy="-437.15855"
+     inkscape:zoom="0.59776186"
+     inkscape:cx="337.01994"
+     inkscape:cy="662.66005"
      inkscape:document-units="mm"
      inkscape:current-layer="g41"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1485"
+     inkscape:window-height="1475"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
      inkscape:window-maximized="1" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,17 +52,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-187.41949,110.72484)">
+     transform="translate(-187.41949,10.72484)">
     <g
        id="g41"
        transform="matrix(1.139015,0,0,1.139015,243.20403,-154.92172)">
       <path
-         style="fill:#009fab;stroke-width:0.26458332"
-         d="m 69.84739,298.11931 c -0.129581,0.65635 -0.313075,1.48932 -0.519933,2.38507 0.253688,-1.0768 0.423892,-1.85117 0.519933,-2.38507 z"
-         id="path5273" />
+         style="fill:#009fab;stroke-width:0.23459344"
+         d="m 57.032295,257.23325 c -0.114893,0.58195 -0.277589,1.32051 -0.461,2.11473 0.224933,-0.95475 0.375845,-1.64135 0.461,-2.11473 z"
+         id="path5273"
+         inkscape:connector-curvature="0" />
       <g
          id="g5319"
-         transform="translate(-541.5715,-336.01837)">
+         transform="matrix(0.93174625,0,0,0.93174625,-513.32001,-256.36962)">
         <g
            transform="translate(255.22671,340.78349)"
            id="g5209">
